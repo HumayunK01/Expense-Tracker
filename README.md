@@ -2,7 +2,7 @@
 
 A simple, elegant web application to track your income and expenses with a modern UI.
 
-![Expense Tracker Screenshot](assets/screenshot.png)
+![Expense Tracker Screenshot](assets/output.png)
 
 ## Features
 
