@@ -66,14 +66,6 @@ The app uses vanilla JavaScript with the following key functions:
 - `updateTransactionList()`: Updates the UI based on filter selection
 - `updateLocalStorage()`: Persists data to browser storage
 
-## Screenshots
-
-![Dashboard View](assets/dashboard.png)
-*Main dashboard with transaction history*
-
-![Mobile View](assets/mobile.png)
-*Responsive mobile interface*
-
 ## Getting Started
 
 1. Clone this repository
